@@ -3,5 +3,15 @@
         "title": "Test Title",
         "text": "Test text",
         "note_id": "3fa72761-68ea-4e15-bb4d-704316451b77"
+    },
+    {
+        "title": "test for new note",
+        "text": "new note text",
+        "id": "30df77c2-98f5-4e5a-9215-6426b349e20c"
+    },
+    {
+        "title": "i need notes",
+        "text": "to appear right",
+        "id": "facb5398-b539-4c31-a3fb-35b141c503be"
     }
 ]
